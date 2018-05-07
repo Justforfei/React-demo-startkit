@@ -5,6 +5,8 @@
 ## How to Start
 
 ```bash
+git clone https://github.com/Justforfei/React-demo-startkit
+cd React-demo-startkit 
 npm i
 npm start
 ```
